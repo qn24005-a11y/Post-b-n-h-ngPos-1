@@ -1,0 +1,15 @@
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\bin\Debug\net10.0\PosBanHang.Application.deps.json
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\bin\Debug\net10.0\PosBanHang.Application.dll
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\bin\Debug\net10.0\PosBanHang.Application.pdb
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\bin\Debug\net10.0\PosBanHang.Domain.dll
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\bin\Debug\net10.0\PosBanHang.Domain.pdb
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\PosBanHang.Application.csproj.AssemblyReference.cache
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\PosBanHang.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\PosBanHang.Application.AssemblyInfoInputs.cache
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\PosBanHang.Application.AssemblyInfo.cs
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\PosBanHang.Application.csproj.CoreCompileInputs.cache
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\PosBanHa.B2F02608.Up2Date
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\PosBanHang.Application.dll
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\refint\PosBanHang.Application.dll
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\PosBanHang.Application.pdb
+C:\Users\qn240\source\repos\PosBanHang.API\PosBanHang.Application\obj\Debug\net10.0\ref\PosBanHang.Application.dll
